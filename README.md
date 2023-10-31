@@ -1,4 +1,4 @@
-# Dail Tasks Scripts
+# Daily Tasks Scripts
 
 Scripts to perform daily Linux System Administration tasks.
 
